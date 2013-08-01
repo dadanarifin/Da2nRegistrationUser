@@ -3,7 +3,7 @@
 global $extra_fields, $exclude_fields;
 // Set fields
 /*
-add field here example : array( 'facebook', __('Facebook Username', 'dak'), true ),
+example : array( 'facebook', __('Facebook Username', 'dak'), true ),
 */
 $extra_fields =  array( 
   		array( 'facebook', __('Facebook Username', 'dak'), true ),
